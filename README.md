@@ -16,10 +16,10 @@ Ver1.01
 &nbsp;&nbsp;&nbsp;会社の知名度の向上。<br>
 &nbsp;&nbsp;&nbsp;Web上からのお問い合わせを増やす。<br>
 &nbsp;&nbsp;&nbsp;技術紹介や製品紹介の欄を設ける。<br>
-●期限　　　　：1ヶ月<br>
-●ターゲット　：サラリーマン、就活生、新規ユーザー<br>
-●環境OS　　　：Mac OS,window8,window7<br>
-●ブラウザ　　：IE5.5以降全て、Mozilla.Firefox,Google Chrome,Opera,Safari<br>
+●&nbsp;期限　　　　：1ヶ月<br>
+●&nbsp;ターゲット　：サラリーマン、就活生、新規ユーザー<br>
+●&nbsp;環境OS　　　：Mac OS,window8,window7<br>
+●&nbsp;ブラウザ　　：IE5.5以降全て、Mozilla.Firefox,Google Chrome,Opera,Safari<br>
 <br>
 ## 成果物 ##
 サイトURL：MASAKI Portfolio
