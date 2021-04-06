@@ -1,7 +1,7 @@
 # 架空のコーポレートサイト
 Ver1.01
 <br>
-● 作成サイト :mythemeblog.html.xdomain.jp
+● 作成サイト : http://mythemeblog.html.xdomain.jp
 
 ## 概要 ##
 <br>
